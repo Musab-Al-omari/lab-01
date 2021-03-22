@@ -1,10 +1,11 @@
 div {
-    display:inline-block;
+    float: left;
     /* height: 100px;
     width: 100px; */
     border: solid 1px;
     background-color: aqua;
     padding: 5px;
+    
 }
 
 p {
