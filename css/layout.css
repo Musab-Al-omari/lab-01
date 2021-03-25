@@ -1,10 +1,113 @@
-div {
+
+p {
+    text-align: center;
+    vertical-align: middle;
+    /* line-height: 130px; */
+}
+
+/* tablet look */
+
+/* @media  (min-width:768px ) and (max-width : 960px){
+
+
+    section {
+        display: flex;
+        width: 100%;
+        flex-flow: row wrap;
+        
+    }
+    p {
+        text-align: center;
+        vertical-align: middle;
+        line-height: 130px;
+    }
+
+} */
+
+
+/* desk top look */
+/* @media (min-width:960px)
+{
+
+    section {
+        display: flex;
+        width: 100%;
+        flex-flow: row wrap;
+        
+    }
+    p {
+        text-align: center;
+        vertical-align: middle; */
+        /* line-height: 130px; */
+    /* }
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* div {
     float: left;
-    /* height: 100px;
-    width: 100px; */
+    height: 100px;
+    width: 100px;
     border: solid 1px;
     background-color: aqua;
-    /* padding: 5px; */
+    padding: 5px;
     
 }
 
@@ -13,4 +116,4 @@ p {
     vertical-align: middle;
     
 }
-
+ */

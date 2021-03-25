@@ -1,4 +1,57 @@
-* {
+
+*{
+    box-sizing: border-box;
+} 
+body{
+    width: 100%;
+}
+section{
+    height: 100%;
+    width: 100%;
+    margin: 0px;
+    
+}
+
+
+/* tablet look */
+/* 
+@media  (min-width:768px ) and (max-width : 960px){
+
+
+    section{
+        width: 100%;
+        margin: 0px;
+        
+    }
+
+
+
+} */
+
+
+/* desk top look */
+/* @media (min-width:960px)
+{
+
+body{
+    width: 100%;
+    height: 100%;
+}
+    section{
+        width: 100%;
+        margin: 0px;
+        
+    }
+} */
+
+
+
+
+
+
+
+
+/* * {
     box-sizing: border-box;
 }
 
@@ -6,4 +59,4 @@ body {
     width: 100%;
     margin: auto;
     padding-top: 50px;
-}
+} */
