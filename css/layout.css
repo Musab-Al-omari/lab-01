@@ -1,11 +1,3 @@
-section{
-   
-        display: flex;
-        width: 100%;
-        flex-flow: row wrap;
-        
-    
-}
 
 p {
     text-align: center;
@@ -15,7 +7,7 @@ p {
 
 /* tablet look */
 
-@media  (min-width:768px ) and (max-width : 960px){
+/* @media  (min-width:768px ) and (max-width : 960px){
 
 
     section {
@@ -27,14 +19,14 @@ p {
     p {
         text-align: center;
         vertical-align: middle;
-        /* line-height: 130px; */
+        line-height: 130px;
     }
 
-}
+} */
 
 
 /* desk top look */
-@media (min-width:960px)
+/* @media (min-width:960px)
 {
 
     section {
@@ -45,10 +37,10 @@ p {
     }
     p {
         text-align: center;
-        vertical-align: middle;
+        vertical-align: middle; */
         /* line-height: 130px; */
-    }
-}
+    /* }
+} */
 
 
 
